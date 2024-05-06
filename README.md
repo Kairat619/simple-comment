@@ -5,7 +5,7 @@
 _Simple Comment_ is a commenting platform for any website. Free, flexible, open-source, private, and scalable.
 
 See the demo: <https://simple-comment.netlify.app>
-
+keremet
 ## Status
 
 _NB:_ Moderation tools are not yet adequate. There is no notification when a user has posted a comment, nor any way to hold it in moderation before approval. If you like this project and would like to see it developed further on a specific timeline, contact me. Otherwise, this project is still on the road, but on the slow road.
